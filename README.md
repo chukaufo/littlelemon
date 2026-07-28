@@ -288,7 +288,7 @@ This project is part of the Meta iOS Developer Course.
 
 **Chuka Uwefoh** (@chukaufo)
 - GitHub: [chukaufo](https://github.com/chukaufo)
-- Portfolio: [chukaufo.com](https://chukaufo.com)
+- Portfolio: [chukaufo.com](https://chukaufo.xyz)
 
 ## 🙏 Acknowledgments
 
