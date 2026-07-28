@@ -5,21 +5,21 @@ A beautiful and fully-featured iOS restaurant ordering application built with Sw
 ## 📸 Screenshots
 
 ### Wireframes
-![Wireframe](wireframes/wireframe.png)
+<img src="wireframes/wireframe.png" alt="Wireframe" width="300">
 
 ### App Screens
 
 #### Login & Onboarding
-![Login Screen](wireframes/Login.PNG)
+<img src="wireframes/Login.PNG" alt="Login Screen" width="250">
 
 #### Menu Screen
-![Menu Screen](wireframes/menu.PNG)
+<img src="wireframes/menu.PNG" alt="Menu Screen" width="250">
 
 #### Dish Details
-![Dish Detail Screen](wireframes/dishdetail.PNG)
+<img src="wireframes/dishdetail.PNG" alt="Dish Detail Screen" width="250">
 
 #### User Profile
-![Profile Screen](wireframes/profile.PNG)
+<img src="wireframes/profile.PNG" alt="Profile Screen" width="250">
 
 ## ✨ Features
 
@@ -263,18 +263,6 @@ open LittleLemon.xcodeproj
 - Grilled Fish - $20.00
 - Lemon Dessert - $9.99
 
-## 📈 Future Enhancements
-
-- [ ] Shopping cart functionality
-- [ ] Order history
-- [ ] Payment integration
-- [ ] Restaurant location & hours
-- [ ] User reviews and ratings
-- [ ] Dietary preferences/allergies
-- [ ] Push notifications for promotions
-- [ ] Dark mode support
-- [ ] Localization (multiple languages)
-- [ ] Unit & UI tests
 
 ## 🤝 Contributing
 
